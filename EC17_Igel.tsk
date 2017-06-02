@@ -1,0 +1,27 @@
+<Task type="AAT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+  <Point type="Start">
+    <Waypoint name="AP2Blausteinsee Mitte" id="0" comment="" altitude="114.0">
+      <Location longitude="6.2747167" latitude="50.8538833"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="20000.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="Radevormwald" id="0" comment="" altitude="389.0">
+      <Location longitude="7.3825" latitude="51.2163833"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="30000.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="055Kronenbrot" id="0" comment="" altitude="183.0">
+      <Location longitude="6.1808333" latitude="50.83945"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="500.0"/>
+  </Point>
+  <Point type="Finish">
+    <Waypoint name="AP1TWR EDKA" id="0" comment="" altitude="190.0">
+      <Location longitude="6.1861167" latitude="50.8236167"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="600.0"/>
+  </Point>
+</Task>
+
