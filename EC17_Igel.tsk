@@ -6,7 +6,7 @@
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
   <Point type="Area">
-    <Waypoint name="Radevormwald" id="0" comment="" altitude="389.0">
+    <Waypoint name="085Radevormwald Flpl." id="0" comment="" altitude="389.0">
       <Location longitude="7.3825" latitude="51.2163833"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="30000.0"/>
