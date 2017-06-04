@@ -1,0 +1,33 @@
+<Task type="AAT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+  <Point type="Start">
+    <Waypoint name="Mönchsheide" id="0" comment="" altitude="205.0">
+      <Location longitude="7.25695" latitude="50.5091667"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="20000.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="Stolberg-Diepenlinchen" id="0" comment="" altitude="260.0">
+      <Location longitude="6.2791667" latitude="50.7683333"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="30000.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="Mendig" id="0" comment="" altitude="174.0">
+      <Location longitude="7.33305" latitude="50.3666667"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="10000.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="073Montabaur Flpl." id="0" comment="" altitude="261.0">
+      <Location longitude="7.8277833" latitude="50.425"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="30000.0"/>
+  </Point>
+  <Point type="Finish">
+    <Waypoint name="Mönchsheide" id="0" comment="" altitude="205.0">
+      <Location longitude="7.25695" latitude="50.5091667"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="4000.0"/>
+  </Point>
+</Task>
+
