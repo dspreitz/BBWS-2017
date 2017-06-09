@@ -1,0 +1,8 @@
+name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
+"Ulmer Huette Valuga",,,4708.833N,01012.583E,2277.0m,1,,,,
+"Innsbruck",,,4715.617N,01120.633E,579.0m,1,,,,
+-----Related Tasks-----
+"556814","Ulmer Huette Valuga","Ulmer Huette Valuga","Innsbruck","Innsbruck"
+Options,TaskTime=03:00:00,WpDis=True,MinDis=True,RandomOrder=False,MaxPts=13
+ObsZone=0,Style=2,R1=10000m,Line=1
+ObsZone=1,Style=3,R1=500m,Line=1
